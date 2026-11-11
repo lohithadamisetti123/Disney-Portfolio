@@ -1,0 +1,4 @@
+node_modules
+dist
+film-build
+.DS_Store
